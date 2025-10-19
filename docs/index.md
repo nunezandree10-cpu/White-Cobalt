@@ -36,7 +36,7 @@ White Cobalt was developed independently of the [creators of cobalt.tools](https
 - [X] Monitor how much storage space is taken up by downloaded media.
 - [X] Organising downloaded media by file type.
 - [X] Organising downloaded media by service.
-- [X] Storage cleaning by service.
+- [Xh] Storage cleaning by service.
 
 
 ## 🧩 • Usage
